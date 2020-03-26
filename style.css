@@ -10,11 +10,12 @@ li a{
 
 .main-nav{
     display: flex;
+    justify-content: flex-end;
 }
 
 
 .green{
-    display: flex;
+    /*display: flex;*/
     color: #FFFFFF ;
 }
 .green li {
